@@ -1,0 +1,68 @@
+*{
+    font-family: "Century Gothic"; 
+}
+
+
+.main-wrapper{
+    display: flex;
+    flex-direction: row;
+}
+
+.wrapper{
+    background: rgb(68, 68, 68);
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    display: flex;
+    margin: auto;
+    width: 25%;
+    padding: 5px 25px;
+}
+
+.platform{
+    color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container{
+    font-size: larger;
+    width: 100%;
+    padding: 15px 0;
+}
+
+.editor-div{
+    background: rgb(247, 247, 247);
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 15px 20px;
+    border-radius: 15px;
+}
+
+.name{
+    text-align: center;
+}
+
+.add{
+    background: rgb(112, 203, 255);
+    border: none;
+    border-radius: 10%;
+    height: 30px;
+    width: 50px;
+    float: right;
+}
+
+.minus{
+    background: rgb(255, 112, 112);
+    border: none;
+    border-radius: 10%;
+    height: 30px;
+    width: 50px;
+    float: right;
+}
+
+.tiktok{
+    padding: 0 5px;
+    float: right;
+}
