@@ -66,3 +66,16 @@
     padding: 0 5px;
     float: right;
 }
+
+.num{
+    float: right;
+    width: 35px;
+    margin: 0 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+button:hover{
+    cursor: pointer;
+    opacity: 80%;
+}
